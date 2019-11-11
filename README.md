@@ -1,5 +1,5 @@
 Project in "Principles of Compilation"
-Made by Yoad Wolfsthal, Yair Schneid, Michael Moskvitin
+Made by Yoad Wolfsthal, Yair Schneid, Michael Atlas
 
 A project to create a compiler for a language called "C-Simple", with design very similar to that of standard C
 Language file is attached in part 1 folder
